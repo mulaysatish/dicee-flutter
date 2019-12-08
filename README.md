@@ -3,7 +3,8 @@
 
 # Dicee 🎲
 
-![Demo Dicee](./demo/dicee.gif)
+<!--![Demo Dicee]()-->
+<img src="./demo/dicee.gif" width="300" height="550"/>
 
 
 ##  ---- Taken from LondonppBrewery ----
